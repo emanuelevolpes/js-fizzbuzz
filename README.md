@@ -12,4 +12,4 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i mult
 //per verificare che un numero sia divisibile per un altro numero posso utilizzare l'operatore modulo "%" all'interno della condizione;
 // se il numero è multiplo di 3 stampo "fizz" utilizzando "replace";
 // se il numero è multiplo di 5 stampo "buzz" utilizzando "replace";
-// se il numero è multiplo sia di 3 che di 5 stampo "fizzbuzz" utilizzando "replace";
+// se il numero è multiplo sia di 3 che di 5 stampo "fizzbuzz";
